@@ -1,0 +1,10 @@
+streamlit
+upstage
+python-dotenv
+pandas
+langchain-upstage
+langchain-core 
+langchain-community 
+langchain-text-splitters 
+faiss-cpu
+easyocr
