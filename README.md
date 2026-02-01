@@ -6,7 +6,8 @@
 
 ---
 ## 🔴 구조
->silbi-helper-agent
+'''
+silbi-helper-agent
 ├── app
 │   ├── main.py              
 │   ├── upstage_utils.py    
@@ -18,6 +19,7 @@
 ├── .gitignore   
 ├── README.md               
 └── requirements.txt         
+'''
 
 ## ✨ 주요 기능
 - **문서 레이아웃 분석**: Upstage Document Parse를 통해 복잡한 영수증 표 구조를 마크다운으로 완벽 변환
