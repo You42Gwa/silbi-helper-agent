@@ -6,12 +6,12 @@
 
 ---
 ## 🔴 구조
->silbi-helper-agent/
-├── app/
+>silbi-helper-agent
+├── app
 │   ├── main.py              
 │   ├── upstage_utils.py    
 │   └── prompt_template.py   
-├── data/
+├── data
 │   ├── image.png            # 시험용 이미지
 │   └── policy.txt           # 보험 약관 데이터 
 ├── .env                     # API 키
